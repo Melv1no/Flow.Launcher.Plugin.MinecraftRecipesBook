@@ -1,0 +1,14 @@
+{
+    "ID": "E47711015A5D46C08424425E10A7101F",
+    "ActionKeyword": "craft",
+    "Name": "Minecraft Recipes Book",
+    "Description": "Grants the power to know all Minecraft recipes",
+    "Author": "Melv1no",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook",
+    "ExecuteFileName": "Flow.Launcher.Plugin.MinecraftRecipesBook.dll",
+    "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook/release/",
+    "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook",
+    "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook/Images/MinecraftRecipesBook.png"
+}
