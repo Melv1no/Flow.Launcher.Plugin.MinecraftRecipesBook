@@ -10,5 +10,5 @@
     "ExecuteFileName": "Flow.Launcher.Plugin.MinecraftRecipesBook.dll",
     "UrlDownload": "https://github.com/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook/release/",
     "UrlSourceCode": "https://github.com/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook",
-    "IcoPath": "https://cdn.jsdelivr.net/gh/Melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook/Images/MinecraftRecipesBook.png"
+    "IcoPath": "https://cdn.jsdelivr.net/gh/melv1no/Flow.Launcher.Plugin.MinecraftRecipesBook@master/Images/MinecraftRecipesBook.png"
 }
